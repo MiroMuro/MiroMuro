@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello 👋 I'm Miro from Helsinki.<br><br>- 🔭 I’m 3rd year Software Engineering student at Haaga-Helia<br>- 📚 I'm currently learning the possibilities of creativity with CSS and tailwind<br>- ⚡ In my free time I am a Scout, I ride bicycles and exercise, and play videogames (League, Dark Souls, Fallout New Vegas)</p>
+<p align="left">Hello 👋 I'm Miro from Helsinki.<br><br>- 🔭 I’m 3rd year Software Engineering student at Haaga-Helia<br>- 📚 I'm currently learning the secrets of beatiful & responsive websites using tailwind and CSS <br>- ⚡ In my free time I am a Scout, I ride bicycles and exercise, and play videogames (League, Dark Souls, Fallout New Vegas)</p>
 
 ###
 
