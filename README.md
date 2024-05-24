@@ -12,9 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MiroMuro.MiroMuro&left_text=stalking%20exposer%20%F0%9F%91%89%F0%9F%91%89"  />
-</div>
 
 ###
 
